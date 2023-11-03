@@ -1,0 +1,27 @@
+/* TeamMembers.css */
+.member-card {
+    text-align: center;
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .member-card img {
+    max-width: 20%;
+    border-radius: 5%;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  

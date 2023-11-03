@@ -1,0 +1,9 @@
+/* Recipes.css */
+.recipe-container {
+    background-color: yellow;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
