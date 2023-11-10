@@ -1,0 +1,17 @@
+ body{
+    background-color: #c0c0c0;
+ }
+ .navbar {
+    background-color: #ff6700!important;
+  }
+  .recipe-container {
+    background-color: #3a6ea5; /* replace with your desired color */
+  }
+  .footer{
+    background-color: #004e98;
+  }
+  #one.navbar {
+    height: 70px; /* replace with your desired height */
+  }
+  
+    
